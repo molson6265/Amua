@@ -11,7 +11,9 @@ Model types:
 * <img src="https://github.com/zward/Amua/blob/gh-pages/images/modelTree_16.png"> [Decision Trees](https://github.com/zward/Amua/wiki/Decision-Trees)
 * <img src="https://github.com/zward/Amua/blob/gh-pages/images/markovChain_16.png"> [Markov Models](https://github.com/zward/Amua/wiki/Markov-Models)
 * Discrete Event Simulation (planned)
-* Microsimulation Models (multi-method) (planned)
+* Compartmental Models (planned)
+
+Models can be run as cohort or individual-level simulations (i.e. microsimulation). 
 
 You can get started [here](https://github.com/zward/Amua/wiki/Getting-Started)!
 
